@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ What I Do
-I build accessible, scalable, and responsive UIs using Angular. Over the years, I’ve led frontend teams, collaborated closely with UX and QA, and delivered web platforms across healthcare, insurance, and e-commerce domains.
+I build accessible, scalable, and responsive UIs using Angular, NextJs. Over the years, I’ve led frontend teams, collaborated closely with UX and QA, and delivered web platforms across healthcare, insurance, and e-commerce domains.
 
 ---
 
