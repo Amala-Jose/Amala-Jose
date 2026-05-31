@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amala Jose
 
-🎯 Front-End Developer | Angular Specialist | Architect-in-Progress
+🎯 Front-End Developer | Front end Specialist | Architect-in-Progress
 📍 Based in Bangalore, India | 13+ years of experience
 
 ---
